@@ -1,0 +1,3 @@
+/home/sasha/CLionProjects/os3laba/cmake-build-debug/CMakeFiles/os3laba.dir
+/home/sasha/CLionProjects/os3laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sasha/CLionProjects/os3laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
